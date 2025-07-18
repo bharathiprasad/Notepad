@@ -28,7 +28,7 @@ A simple, lightweight, and user-friendly Notepad application built to provide a 
 4. **Run the Application**:
    - For Python-based projects:
      ```bash
-     python main.py
+     python notepad.py
      ```
    - For other frameworks, provide the appropriate command or instructions.
 
@@ -61,9 +61,6 @@ Contributions are welcome! To contribute to this project:
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
