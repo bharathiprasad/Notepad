@@ -30,8 +30,6 @@ A simple, lightweight, and user-friendly Notepad application built to provide a 
      ```bash
      python notepad.py
      ```
-   - For other frameworks, provide the appropriate command or instructions.
-
 ## Usage
 
 1. Launch the application using the instructions above.
